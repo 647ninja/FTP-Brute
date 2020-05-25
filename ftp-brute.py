@@ -1,7 +1,5 @@
 import ftplib
 
-# init the console for colors (Windows)
-# init()
 # hostname or IP address of the FTP server
 host = "localhost"
 # username of the FTP server, root as default for linux

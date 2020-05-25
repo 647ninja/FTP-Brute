@@ -2,7 +2,6 @@ import ftplib
 from threading import Thread
 import queue
 
-# init()
 # initialize the queue
 q = queue.Queue()
 # number of threads to spawn
